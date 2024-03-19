@@ -8,6 +8,8 @@
 
 [《如何用 Pixi.js 设计并实现《围追堵截》 桌游？（三）》](https://github.com/jzllove9/Blog-jzl/issues/3)
 
+[《如何用 Pixi.js 设计并实现《围追堵截》 桌游？（四）》](https://github.com/jzllove9/Blog-jzl/issues/4)
+
 ### 职场心得
 TODO
 
